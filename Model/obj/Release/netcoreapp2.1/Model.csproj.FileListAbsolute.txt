@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\PublicacionServicios\Model\bin\Release\netcoreapp2.1\Model.deps.json
+C:\Users\Home\source\repos\PublicacionServicios\Model\bin\Release\netcoreapp2.1\Model.dll
+C:\Users\Home\source\repos\PublicacionServicios\Model\bin\Release\netcoreapp2.1\Model.pdb
+C:\Users\Home\source\repos\PublicacionServicios\Model\obj\Release\netcoreapp2.1\Model.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\PublicacionServicios\Model\obj\Release\netcoreapp2.1\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\PublicacionServicios\Model\obj\Release\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\PublicacionServicios\Model\obj\Release\netcoreapp2.1\Model.AssemblyInfo.cs
+C:\Users\Home\source\repos\PublicacionServicios\Model\obj\Release\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\PublicacionServicios\Model\obj\Release\netcoreapp2.1\Model.dll
+C:\Users\Home\source\repos\PublicacionServicios\Model\obj\Release\netcoreapp2.1\Model.pdb
